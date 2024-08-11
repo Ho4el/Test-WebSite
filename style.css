@@ -1,0 +1,37 @@
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(11, 61, 142);
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+#block {
+    width: 300px;
+    margin: auto;
+    margin-top: 300px;
+    border-left: 6px solid #0076ec;
+}
+
+h1 {
+    padding-top: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    text-align: center;
+}
+
+.footer-div {
+    margin-top: 350px;
+    text-align: center;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
